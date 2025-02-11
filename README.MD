@@ -2,9 +2,13 @@
 
 This repo contains every my first project in learning Backend using express.js it help people to organize their tasks and create their own tasks for them.
 
-## Development server
+### Prerequisites
 
-Run `npm install` to install all needed packages and then run `npm start` to start the server.
+- Node.js
+- npm (Node Package Manager)
+- MongoDB
+
+## Getting Started
 
 ## Endpoints
 
