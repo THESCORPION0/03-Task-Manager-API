@@ -10,7 +10,7 @@ This repo contains every my first project in learning Backend using express.js i
 
 ## Getting Started
 
-## Endpoints
+### Endpoints
 
 - `GET /api/v1/tasks `- Retrieve all tasks
 - `POST /api/v1/tasks` - Create a new task
@@ -18,7 +18,7 @@ This repo contains every my first project in learning Backend using express.js i
 - `PATCH /api/v1/tasks/:id` - Update a task by ID
 - `DELETE /api/v1/tasks/:id` - Delete a task by ID
 
-## Usage
+### Usage
 
 1. Clone the repository.
 2. Create a `.env` file in the root directory and add your MongoDB URI and PORT Number:
@@ -30,7 +30,7 @@ This repo contains every my first project in learning Backend using express.js i
 4. Run `npm start` to start the server.
 5. Use a tool like Postman to test the endpoints.
 
-## Technologies Used
+### Technologies Used
 
 - Node.js
 - Express.js
